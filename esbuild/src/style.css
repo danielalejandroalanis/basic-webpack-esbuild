@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #eee;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+.container {
+    border: 1px solid #009f;
+    color: #009f;
+    padding: 4rem;
+    border-radius: 4px;
+}
